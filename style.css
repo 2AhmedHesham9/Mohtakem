@@ -41,12 +41,12 @@ body {
 }
 
 .nav-link:hover {
-    background-color: rgb(196, 180, 91);
-    color: white;
+    /* background-color: rgb(196, 180, 91); */
+    color: var(--secondary-color);
 }
 
 .hero-section {
-    background: linear-gradient(rgba(26, 58, 110, 0.8), rgba(140, 85, 46, 0.8)), url('https://ae01.alicdn.com/kf/H09552bd94a8b4971a6a0a89cf97fe356W.jpg');
+    background: linear-gradient(rgba(26, 58, 110, 0.8), rgba(140, 85, 46, 0.8)), url('images/home.png');
     background-size: cover;
     background-position: center;
     color: white;
