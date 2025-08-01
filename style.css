@@ -149,7 +149,7 @@ body {
 }
 
 footer {
-    background-color: var(--dark-color);
+    background-color: var(--secondary-color);
     color: white;
     padding: 30px 0;
     text-align: center;
